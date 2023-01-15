@@ -16,14 +16,14 @@ The tranquility once you get to the system of water
 
 The adventure on stand up paddle board with gravel return
 
-Photo credit: https://unsplash.com/@synphoneticThe adventure begins on the stand up paddle board
+Photo credit: https://unsplash.com/@synphonetic
 
-Treacherous lake
+T
 
-The tranquility once you get to the system of water
+T
 
-The adventure on stand up paddle board with gravel return
 
-Photo credit: https://unsplash.com/@synphoneticThe adventure begins on the stand up paddle board
-Treacherous lake
+
+P
+Treacherous
 The tranquility once you get to the system of waterThe adventure on stand up paddle board with gravel return.
