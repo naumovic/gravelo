@@ -9,5 +9,21 @@ meta:
   noindex: true
 ---
 The adventure begins on the stand up paddle board
+
+Treacherous lake
+
+The tranquility once you get to the system of water
+
+The adventure on stand up paddle board with gravel return
+
+Photo credit: https://unsplash.com/@synphoneticThe adventure begins on the stand up paddle board
+
+Treacherous lake
+
+The tranquility once you get to the system of water
+
+The adventure on stand up paddle board with gravel return
+
+Photo credit: https://unsplash.com/@synphoneticThe adventure begins on the stand up paddle board
 Treacherous lake
 The tranquility once you get to the system of waterThe adventure on stand up paddle board with gravel return.
