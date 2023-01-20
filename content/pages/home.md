@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: The Gravelo
+title: Gravelo
 featuredImage: https://ucarecdn.com/bf45749c-858a-4d3e-b399-c087b76455ce/
 subtitle: The Gravelo. A Notebook of Gravel Adventures.
 meta:
