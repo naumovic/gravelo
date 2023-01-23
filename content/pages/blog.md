@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Blog Page
-featuredImage: https://ucarecdn.com/6e93f378-4aad-4970-8d02-8b57d5cc3b15/
+featuredImage: https://ucarecdn.com/1ce43398-2200-4b58-b80c-815cc2264f5a/
 subtitle: This is the blog page subtitle.
 meta:
   description: This is a meta description.
