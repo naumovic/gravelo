@@ -22,5 +22,3 @@ We set off on a new paddle board adventure up the Noosa Everglades. Taking on an
 This hidden gem in Queensland is quite a special place. The narrow channels and secluded lagoons are surrounded by wetlands and dense mangroves. This unique water system is a perfect spot to escape the mainstream and embrace nature in all its raw beauty.
 
 Stand-up paddling in the Noosa Everglades offers a peaceful experience. You get this close-up view of the diverse ecosystem and the opportunity to explore the hidden gems of the area.
-
-Photo credit: https://unsplash.com/@synphonetic
