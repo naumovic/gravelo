@@ -3,7 +3,7 @@ template: HomePage
 slug: ""
 title: gravelo
 featuredImage: https://ucarecdn.com/8dcf1808-b9c9-498e-85ea-6d1c21fa6d50/
-subtitle: ""
+subtitle: \>﻿ Exploring the world on gravel roads
 meta:
   description: |-
     Camping
@@ -25,6 +25,12 @@ Hey there 👋
 Welcome to gravelo!
 
 We are Mihajlo and Jason, two Australian friends exploring the world on gravel bikes, stand-up paddle boards and surf spots. Join us as we embark on a journey filled with endless discovery and breathtaking experiences. From the rugged Australian outback to the crystal-clear waters of exotic beaches, we're on a mission to seek out the world's most incredible destinations and share our journey with you. Get ready for a wild ride as we share our tales of exploration, adventure, and the friendships forged along the way.
+
+> ### What is gravelo?
+
+The gravelo is a travel journal of two Australian friends exploring the world on gravel roads.
+
+## G﻿et in touch
 
 If you want to get in touch you can follow us on Instagram [@thegravelo](https://www.instagram.com/thegravelo/)
 
