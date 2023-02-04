@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: gravelo
-featuredImage: https://ucarecdn.com/bf45749c-858a-4d3e-b399-c087b76455ce/
+featuredImage: https://ucarecdn.com/37483694-a0f8-42d2-a2e2-b5e72982d46f/
 subtitle: The travel journal of two Australian friends exploring the world on
   gravel roads.
 meta:
