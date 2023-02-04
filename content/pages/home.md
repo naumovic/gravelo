@@ -19,7 +19,7 @@ meta:
     Climbs
     National parks
     Breweries
-  title: The Gravelo
+  title: The Gravelo - Gravel rides and adventures
 ---
 Hey there 👋
 
