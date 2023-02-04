@@ -3,8 +3,7 @@ template: HomePage
 slug: ""
 title: gravelo
 featuredImage: https://ucarecdn.com/8dcf1808-b9c9-498e-85ea-6d1c21fa6d50/
-subtitle: The travel journal of two Australian friends exploring the world on
-  gravel roads.
+subtitle: ""
 meta:
   description: |-
     Camping
