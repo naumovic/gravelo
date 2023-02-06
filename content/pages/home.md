@@ -37,10 +37,7 @@ If you want to get in touch you can follow us on Instagram [@thegravelo](https:/
 # Some Personal Favourites
 
 * [Noosa Everglades: Stand up Paddle One Way, Gravel Return](https://thegravelo.com.au/posts/noosa-everglades-stand-up-paddle-one-way-gravel-return/)
-* Gravel rides
-* Stand up paddle adventures
-* Trail runs
-* Surf spots
-* Hikes
-* Bike packing
-* Breweries
+
+# Our list of gravel rides
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr7sZOdTmw0B2SgP?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
